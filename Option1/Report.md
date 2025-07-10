@@ -54,5 +54,3 @@ With more time and resources, I would proceed by:
 This project was a good starting point, and the steps I've outlined would be crucial for building a truly reliable cross-camera player mapping system.
 
 ---
-
-Hope this version fits what you were looking for! Let me know if you want to adjust anything.
